@@ -1,0 +1,71 @@
+.new{
+    border: 3px solid rgb(255, 0, 0);
+    width: 100%;
+    height:60px;
+    background-color: rgb(171, 171, 171);
+}
+.head{
+    font-size: larger;
+}
+.sheet{
+    display: flex;
+    align-items: center;
+}
+input{
+    margin: 10px;
+}
+.Head{
+    font-weight: bolder;
+}
+ 
+.desc{
+    font-weight: 800;
+
+} 
+#area{
+    width: 100%;
+}
+
+.Tags{
+    display: flex;
+    font-weight: bolder;
+}
+#text{
+    width:100%;
+    background-color: rgb(236, 249, 131);
+}
+button{
+     padding-top: 10px;
+    padding-bottom: 10px; 
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.button{
+    margin-left: auto;
+}
+
+.Title{
+    width: 90%;
+    padding: 10px;
+    background-color: rgb(209, 246, 123);
+
+}
+.border{
+    border: 2px solid black;
+    background-color: rgb(213, 240, 124);
+}
+.prescription{
+    text-align: center;
+
+    font-weight: 700;
+    font-size: 25px;
+
+}
+.Article_Margin{
+    margin-top: 20px;
+}
+.buttons {
+    text-align: right;
+  }
